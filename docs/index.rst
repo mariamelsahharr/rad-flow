@@ -44,6 +44,7 @@ The following paper may be used as a general citation for RAD-Sim:
    :maxdepth: 3
 
    rad-sim-quick-start
+   rad-sim-first-module
    rad-sim-code-structure
    rad-sim-rtl-code
    examples/rad-sim-examples
